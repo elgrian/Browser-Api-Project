@@ -1,7 +1,7 @@
 # Browser-Api-Project
 
 
-<h1>nimation API</h1>
+<h1>Animation API</h1>
 
 <p> I recently began building a website for my Software Product Development class and decided to add some cool little animations into my page, to make it pop out to the user more.
   
